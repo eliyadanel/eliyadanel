@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Eliya,
 - 👀 I’m interested in information security and coding.
 - 🌱 I’m currently learning coding in Python and Powershell.
-- 📫 Contact me on:
-LinkedIn, Facebook and Email
+- 📫 Contact me on: Linkdin and Facebook. 
 
 <!---
 eliyadanel/eliyadanel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
